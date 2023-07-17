@@ -1,0 +1,192 @@
+{
+  "advertisements": [
+    {
+      "id": 1,
+      "advName": "Квартира на улице Ленина",
+      "advDescription": "Просторная квартира с отличным ремонтом",
+      "monthlyRentPrice": 15000,
+      "area": 80,
+      "numberOfRooms": 2,
+      "advImg": ""
+    },
+    {
+      "id": 2,
+      "advName": "Уютная студия в центре",
+      "advDescription": "Малогабаритная квартира с новой мебелью",
+      "monthlyRentPrice": 10000,
+      "area": 35,
+      "numberOfRooms": 1,
+      "advImg": ""
+    },
+    {
+      "id": 3,
+      "advName": "Трехкомнатная квартира с видом на реку",
+      "advDescription": "Прекрасный вид из окна, просторные комнаты",
+      "monthlyRentPrice": 20000,
+      "area": 120,
+      "numberOfRooms": 3,
+      "advImg": ""
+    }
+  ],
+  "advImg": [
+    {
+      "id": 1,
+      "img-1": "https://a0.muscache.com/im/pictures/miso/Hosting-51257102/original/110df613-4152-4aaf-975d-a5787fb1b4a5.jpeg?im_w=1200",
+      "img-2": "https://a0.muscache.com/im/pictures/miso/Hosting-51257102/original/7fc8efef-953c-4e5c-a943-172056540663.jpeg?im_w=1440",
+      "img-3": "https://a0.muscache.com/im/pictures/05a86e64-de61-40da-85da-b28a75cf3b42.jpg?im_w=1440",
+      "img-4": "https://a0.muscache.com/im/pictures/4fb10785-00ea-4909-922b-9a8feb84bbfa.jpg?im_w=1440",
+      "img-5": "https://a0.muscache.com/im/pictures/3ebd17e9-3c86-402a-84dc-b02e1382392f.jpg?im_w=1440"
+    },
+    {
+      "id": 2,
+      "img-1": "https://a0.muscache.com/im/pictures/5973d706-c258-4818-b4d0-178508ad0739.jpg?im_w=1200",
+      "img-2": "https://a0.muscache.com/im/pictures/3efc205f-b78b-461a-8f14-61cbac4630c1.jpg?im_w=1440",
+      "img-3": "https://a0.muscache.com/im/pictures/c2445fd0-5e6d-4920-82e2-1abd6413c468.jpg?im_w=1440",
+      "img-4": "https://a0.muscache.com/im/pictures/fd86ab8b-02cb-4b0e-b41c-f679dcbbd260.jpg?im_w=1440",
+      "img-5": "https://a0.muscache.com/im/pictures/57b6dc23-3ed3-4375-8e05-7389de42a188.jpg?im_w=1440"
+    },
+    {
+      "id": 3,
+      "img-1": "https://a0.muscache.com/im/pictures/b7c9264d-73c9-45c3-882e-6e9577d63d68.jpg?im_w=1440",
+      "img-2": "https://a0.muscache.com/im/pictures/3f19c1cc-7f4f-4528-990d-4a3768452aee.jpg?im_w=1440",
+      "img-3": "https://a0.muscache.com/im/pictures/062ef52a-9b4f-4301-9413-e757d1758b3f.jpg?im_w=1440",
+      "img-4": "https://a0.muscache.com/im/pictures/878d2c15-2d96-476d-82e1-30156db9648f.jpg?im_w=1440",
+      "img-5": "https://a0.muscache.com/im/pictures/0a0bfb9c-4a56-41e5-84f3-3558be01f3c5.jpg?im_w=1440"
+    },
+    {
+      "id": 4,
+      "img-1": "https://a0.muscache.com/im/pictures/6721fc25-afe0-4f35-b181-212ec8ddc186.jpg?im_w=1200",
+      "img-2": "https://a0.muscache.com/im/pictures/23a60113-a16d-4cd6-bf5a-a2f352eb4f4e.jpg?im_w=1440",
+      "img-3": "https://a0.muscache.com/im/pictures/7797b1b6-54ed-4803-a5dd-838532fffc77.jpg?im_w=1440",
+      "img-4": "https://a0.muscache.com/im/pictures/219004fb-cfbd-461f-bb56-c0105a31330a.jpg?im_w=1440",
+      "img-5": "https://a0.muscache.com/im/pictures/1d22ab4c-641d-47d6-89fd-7c0418274ce7.jpg?im_w=1440"
+    },
+    {
+      "id": 5,
+      "img-1": "",
+      "img-2": "",
+      "img-3": "",
+      "img-4": "",
+      "img-5": ""
+    },
+    {
+      "id": 6,
+      "img-1": "",
+      "img-2": "",
+      "img-3": "",
+      "img-4": "",
+      "img-5": ""
+    },
+    {
+      "id": 7,
+      "img-1": "",
+      "img-2": "",
+      "img-3": "",
+      "img-4": "",
+      "img-5": ""
+    },
+    {
+      "id": 8,
+      "img-1": "",
+      "img-2": "",
+      "img-3": "",
+      "img-4": "",
+      "img-5": ""
+    },
+    {
+      "id": 9,
+      "img-1": "",
+      "img-2": "",
+      "img-3": "",
+      "img-4": "",
+      "img-5": ""
+    },
+    {
+      "id": 10,
+      "img-1": "",
+      "img-2": "",
+      "img-3": "",
+      "img-4": "",
+      "img-5": ""
+    }
+  ],
+  "advUrls": [
+    {
+      "id": 1,
+      "url": "https://www.airbnb.ru/rooms/51257102?adults=1&category_tag=Tag%3A789&children=0&enable_m3_private_room=true&infants=0&pets=0&search_mode=flex_destinations_search&check_in=2023-10-10&check_out=2023-10-15&source_impression_id=p3_1689590651_KBoJggUg8El5XQFy&previous_page_section_name=1000&federated_search_id=0b6e54a9-b3c9-4543-9abc-9853ab16b39e&_set_bev_on_new_domain=1689592829_NDEwZTIwOTAyMWRk"
+    },
+    {
+      "id": 2,
+      "url": "https://ru.airbnb.com/rooms/40460144?adults=1&category_tag=Tag%3A789&children=0&enable_m3_private_room=true&infants=0&pets=0&search_mode=flex_destinations_search&check_in=2024-05-01&check_out=2024-05-08&source_impression_id=p3_1689590641_I3TE%2BS9dZlDuukip&previous_page_section_name=1000&federated_search_id=0b6e54a9-b3c9-4543-9abc-9853ab16b39e"
+    },
+    {
+      "id": 3,
+      "url": "https://www.airbnb.ru/rooms/plus/19997279?adults=1&category_tag=Tag%3A8225&children=0&enable_m3_private_room=true&infants=0&pets=0&search_mode=flex_destinations_search&check_in=2024-01-15&check_out=2024-01-20&source_impression_id=p3_1689593123_uMFLHVB6IH3C%2FXNq&previous_page_section_name=1000&federated_search_id=83776c6c-9128-444a-b975-07605a194086&_set_bev_on_new_domain=1689590606_ZmIyOWU2MzA1ZWM2"
+    },
+    {
+      "id": 4,
+      "url": "https://ru.airbnb.com/rooms/41004219?adults=1&category_tag=Tag%3A8225&children=0&enable_m3_private_room=true&infants=0&pets=0&search_mode=flex_destinations_search&check_in=2023-07-18&check_out=2023-07-23&source_impression_id=p3_1689593123_7XyHbO2dJdqGoppT&previous_page_section_name=1000&federated_search_id=83776c6c-9128-444a-b975-07605a194086"
+    },
+    {
+      "id": 5,
+      "url": "https://www.airbnb.ru/rooms/plus/34444025?adults=1&category_tag=Tag%3A8225&children=0&enable_m3_private_room=true&infants=0&pets=0&search_mode=flex_destinations_search&check_in=2023-10-15&check_out=2023-10-20&source_impression_id=p3_1689593123_UwTUbMnqX%2BQkqqCx&previous_page_section_name=1000&federated_search_id=83776c6c-9128-444a-b975-07605a194086&_set_bev_on_new_domain=1689590606_ZmIyOWU2MzA1ZWM2"
+    },
+    {
+      "id": 6,
+      "url": "https://ru.airbnb.com/rooms/4604261?adults=1&category_tag=Tag%3A8225&children=0&enable_m3_private_room=true&infants=0&pets=0&search_mode=flex_destinations_search&check_in=2023-09-23&check_out=2023-09-28&source_impression_id=p3_1689593211_4ioe0SdZXSNhBtjo&previous_page_section_name=1000&federated_search_id=797dfbe8-8d82-47f4-aaa5-85c65f9c77b1"
+    },
+    {
+      "id": 7,
+      "url": "https://ru.airbnb.com/rooms/705583331237049946?adults=1&category_tag=Tag%3A8225&children=0&enable_m3_private_room=true&infants=0&pets=0&search_mode=flex_destinations_search&check_in=2023-07-30&check_out=2023-08-04&source_impression_id=p3_1689593211_akPYMEpqmXx65d5X&previous_page_section_name=1000&federated_search_id=797dfbe8-8d82-47f4-aaa5-85c65f9c77b1"
+    },
+    {
+      "id": 8,
+      "url": "https://ru.airbnb.com/rooms/581170184081838138?adults=1&category_tag=Tag%3A8225&children=0&enable_m3_private_room=true&infants=0&pets=0&search_mode=flex_destinations_search&check_in=2023-08-20&check_out=2023-08-26&source_impression_id=p3_1689593266_K0X8FTqq5HgAkPkJ&previous_page_section_name=1000&federated_search_id=2c7bce36-c14e-4e0b-ba7b-b6a96a4c2128"
+    },
+    {
+      "id": 9,
+      "url": "https://www.airbnb.ru/luxury/listing/53719772?adults=1&category_tag=Tag%3A8225&children=0&enable_m3_private_room=true&infants=0&pets=0&search_mode=flex_destinations_search&check_in=2023-09-11&check_out=2023-09-16&source_impression_id=p3_1689594951_dU3tEXF6fqNR9K6p&previous_page_section_name=1000&federated_search_id=45f22056-6066-40b8-8cdc-177f63c1c0c7&_set_bev_on_new_domain=1689590606_ZmIyOWU2MzA1ZWM2"
+    },
+    {
+      "id": 10,
+      "url": "https://ru.airbnb.com/rooms/15378037?adults=1&category_tag=Tag%3A8225&children=0&enable_m3_private_room=true&infants=0&pets=0&search_mode=flex_destinations_search&check_in=2023-07-17&check_out=2023-07-22&source_impression_id=p3_1689594951_GWBOiVgaWd3qITkn&previous_page_section_name=1000&federated_search_id=45f22056-6066-40b8-8cdc-177f63c1c0c7"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "login": "user123",
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "password": "mypassword"
+    },
+    {
+      "id": 2,
+      "login": "user456",
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "password": "securepassword"
+    },
+    {
+      "id": 3,
+      "login": "user789",
+      "name": "Alex Johnson",
+      "email": "alexjohnson@example.com",
+      "password": "12345678"
+    },
+    {
+      "id": 4,
+      "login": "user101",
+      "name": "Sarah Williams",
+      "email": "sarahwilliams@example.com",
+      "password": "p@ssw0rd"
+    },
+    {
+      "id": 5,
+      "login": "user202",
+      "name": "Michael Brown",
+      "email": "michaelbrown@example.com",
+      "password": "qwerty123"
+    }
+  ]
+}

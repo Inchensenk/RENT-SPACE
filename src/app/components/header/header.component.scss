@@ -1,0 +1,32 @@
+.header-container {
+  margin: 0 auto;
+  background-color: hsla(118, 100%, 50%, 0.575);
+
+  height: 100px;
+  width: 80%;
+
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  align-items: center;
+
+  border-radius: 15px;
+}
+
+.icon {
+  &_size--70 {
+    font-size: 70px;
+  }
+
+  &_color--white {
+    color: white;
+  }
+}
+
+.right-container {
+  margin-right: 30px;
+}
+
+.left-container {
+  margin-left: 30px;
+}
